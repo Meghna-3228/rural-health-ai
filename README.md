@@ -45,3 +45,10 @@ Open the App: Just open the index.html file in your favorite web browser.
 Start Analyzing: The app is ready to go! Enter patient info and see the AI work its magic. ✨
 
 📸 Screenshots
+<img width="1917" height="981" alt="image" src="https://github.com/user-attachments/assets/775fb9ac-525a-46f4-b460-465fe8711a14" />
+
+<img width="1862" height="787" alt="image" src="https://github.com/user-attachments/assets/ee1a3fb6-855a-40ef-8df4-b608bae24f4d" />
+
+<img width="1734" height="683" alt="image" src="https://github.com/user-attachments/assets/191bb9ec-9a81-4a8e-830e-32361be465a5" />
+
+
